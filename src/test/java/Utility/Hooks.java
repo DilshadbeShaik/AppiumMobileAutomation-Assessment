@@ -72,7 +72,7 @@ public class Hooks {
 
     @After("@appium")
     public static void tearDown_appium(Scenario scenario) {
-
+/*
 //       AppiumDriver driver = AndroidDriver.getDriver_appium();
         System.out.println("*************************************************************");
         System.out.println("Taking Screenshot after scenario is fails : " + scenario.isFailed());
@@ -80,7 +80,7 @@ public class Hooks {
         if (scenario.isFailed()) {
             byte[] screenshot = ((TakesScreenshot) driver).getScreenshotAs(OutputType.BYTES);
             scenario.attach(screenshot, "image/png", scenario.getName());
-        }
+        }*/
         System.out.println("*************************************************************");
         System.out.println("*****  Application Logging off---  *****");
         androidDriver.quit();

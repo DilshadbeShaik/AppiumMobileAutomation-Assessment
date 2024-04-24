@@ -16,10 +16,10 @@ public class WesternUnionApplicationActions{
          PageFactory.initElements(new AppiumFieldDecorator(androidDriver),westernUnionApplicationLocations);
      }
     public static void welcome() throws InterruptedException {
-        Thread.sleep(20000);
+        Thread.sleep(25000);
         WesternUnionApplicationLocations.welcome.isDisplayed();
         System.out.println(WesternUnionApplicationLocations.welcome.getText());
-        Thread.sleep(1000);
+        Thread.sleep(5000);
     }
 
     public static void menu_button() throws InterruptedException {
@@ -28,13 +28,13 @@ public class WesternUnionApplicationActions{
     }
     public static void trackTransfer() throws InterruptedException {
         menu_track_transfer.click();
-        Thread.sleep(1000);
+        Thread.sleep(2000);
     }
 
     public static void i_am_sender() throws InterruptedException {
          System.out.println(i_am_sender.isDisplayed()+" : "+i_am_sender.getText());
         i_am_sender.click();
-        Thread.sleep(1000);
+        Thread.sleep(2000);
     }
     public static void enter_mtcn_number(String mtcnNumber) throws InterruptedException {
         WesternUnionApplicationLocations.enter_mtcn.sendKeys(mtcnNumber);
@@ -61,7 +61,7 @@ public class WesternUnionApplicationActions{
     public static void i_am_reciver() throws InterruptedException {
         System.out.println(i_am_reciver.isDisplayed()+" : "+i_am_reciver.getText());
         i_am_reciver.click();
-        Thread.sleep(1000);
+        Thread.sleep(2000);
     }
     public static void ask_sender_mtcn() throws InterruptedException {
         ask_sender_mtcn.click();

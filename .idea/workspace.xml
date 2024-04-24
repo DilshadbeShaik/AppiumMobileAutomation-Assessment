@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c635445-5548-421c-ac04-653fc74ecc00" name="Changes" comment="" />
+    <list default="true" id="3c635445-5548-421c-ac04-653fc74ecc00" name="Changes" comment="Menu Button Automation">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Features/WesternUnion.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Features/WesternUnion.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/Actions/WesternUnionApplicationActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/Actions/WesternUnionApplicationActions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Utility/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Utility/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/allure.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/allure.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/SparkReport/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/SparkReport/ExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TestRunner2/Cucumber-reports/cucumber-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/TestRunner2/Cucumber-reports/cucumber-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TestRunner2/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/TestRunner2/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TestRunner3/Cucumber-reports/cucumber-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/TestRunner3/Cucumber-reports/cucumber-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TestRunner3/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/TestRunner3/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/screenshots/embedded1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/Actions/WesternUnionApplicationActions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/Actions/WesternUnionApplicationActions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Utility/Hooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Utility/Hooks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/allure.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/allure.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +52,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.1150748" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -43,7 +60,7 @@
       <recent name="C:\AppiumCucumber\E2EMobileAutomation\src\test\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestRunner3">
+  <component name="RunManager" selected="JUnit.TestRunner2">
     <configuration name="Scenario: Check Ask The Sender for MTCN link" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Features/WesternUnion.feature" />
@@ -228,6 +245,14 @@
       <option name="presentableId" value="Default" />
       <updated>1713446243562</updated>
     </task>
+    <task id="LOCAL-00001" summary="Menu Button Automation">
+      <created>1713941005775</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713941005775</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,5 +265,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Menu Button Automation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menu Button Automation" />
   </component>
 </project>
