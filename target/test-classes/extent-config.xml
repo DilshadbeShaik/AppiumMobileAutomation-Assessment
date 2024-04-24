@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <!-- Report Themes: standard, dark -->
+    <configuration theme="standard">
+        <!-- Report Name -->
+        <documentTitle>Extent Report</documentTitle>
+        <!-- Encoding for the report -->
+        <encoding>UTF-8</encoding>
+        <!-- Timeline Configuration (Optional) -->
+        <timelineEnabled>false</timelineEnabled>
+        <timeStampFormat>yyyy-MM-dd HH:mm:ss</timeStampFormat>
+    </configuration>
+</extentreports>
